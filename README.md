@@ -10,4 +10,4 @@ I'm a mobile focused full-stack developer from Bengaluru, India.
 
 Please visit [my personal website](https://about.sahajr.com) for more info about me.
 
-![Interests](https://github.com/SahajR/SahajR/blob/master/resources/interests_1.png)
+![Interests](https://github.com/SahajR/SahajR/blob/master/resources/banner_profile.png)
