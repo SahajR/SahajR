@@ -8,6 +8,6 @@ I'm a mobile focused full-stack developer from Bengaluru, India.
 - I love the current ecosystem of deploying services to the cloud, so I love working in __Golang__ to extend the core functionality of Kubernetes
 - With WASM being introduced, I'd love to build performant modules to work on the browser, so I'm currently learning __Rust__
 
-Please visit [my personal website](https://about.sahajr.com) for more info about me.
+Please visit [my personal website](https://sahaj.cv) for more info about me.
 
 ![Interests](https://github.com/SahajR/SahajR/blob/master/resources/banner_profile.png)
